@@ -30,9 +30,7 @@ In this project, you can do the following:
 - [#3] Added JS and connected pages to JsonPowerDB
 - [#4] Few CSS changes
 ---
-   
-  ### Instructions
-  _____________________
+  
 #### Requirements
   * Web Browser
   * Database Connection Token
